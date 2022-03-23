@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertLackage
 - 👀 I’m interested in open source digital mapping
-- 🌱 I’m currently learning leaflet js
+- 🌱 I’m currently learning Leaflet js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rjlackage@gmail.com
 
